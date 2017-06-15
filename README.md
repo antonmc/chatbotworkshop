@@ -2,7 +2,7 @@
 
 * Anton will provide a 1-day (~6hrs + breaks) training workshop for IoT613.
 * Topic will focus on developing a chatbot that can interface with a sensor system.
-* Chatbot development will be on Watson Conversation using iOS.
+* Chatbot development will be on Watson Conversation.
 * The sensor system will be in place to show direct correlation of chatbot AI usage in a IoT setting.
 * Workshop to be provided for up to 20 people.
 * Participants will leave with a GitHub repository of their own chatbot program.
